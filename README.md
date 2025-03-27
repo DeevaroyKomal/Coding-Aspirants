@@ -1,9 +1,11 @@
 # Virtual Medical Assistant
 
 
+
 **Frontend:** Streamlit (UI for image upload & chatbot).
 
 **Backend:** Google Gemini API for chatbot & image analysis.
+
 
 
 
