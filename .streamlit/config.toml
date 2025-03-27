@@ -1,0 +1,12 @@
+[theme]
+# Calm blue for accents
+primaryColor = "#0077b6"  
+# Light blue background
+backgroundColor = "#f0f8ff"  
+# Light blue for sidebar and interactive widgets
+secondaryBackgroundColor = "#e6f7ff"  
+# Dark gray text for better readability
+textColor = "#333333" 
+
+[client]
+toolbarMode = "minimal"
